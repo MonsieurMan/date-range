@@ -29,6 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/MonsieurMan/date-range.git"
   },
+  "jest": {
     "transform": {
       "^.+\\.(ts|tsx)$": "<rootDir>/node_modules/@stencil/core/testing/jest.preprocessor.js"
     },
